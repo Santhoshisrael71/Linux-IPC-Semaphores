@@ -141,13 +141,13 @@ int main() {
 
 
 
-## OUTPUT
 $ ./sem.o 
+## OUTPUT
 ![image](https://github.com/user-attachments/assets/4cfc69e9-3d6a-4f53-abae-4153b89ae547)
 
 
-## OUTPUT
 $ ipcs
+## OUTPUT
 ![image](https://github.com/user-attachments/assets/bf7d95f9-2c85-4ef5-bf34-75fd3b5d4d28)
 
 
